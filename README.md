@@ -42,5 +42,5 @@ improved the accuracy.
 
 Thanks to Vasso Tsichli for the significant help in the project.
 
-Dimosthenis Beleveslis
+Dimosthenis Beleveslis <br>
 dimbele4@gmail.com
