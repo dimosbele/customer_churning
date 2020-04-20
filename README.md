@@ -1,7 +1,7 @@
 # customer_churning
 An Application to the ”Churn” Problem
 
-The goal is to predict which of the costumers are going to change telecommunication provider through algorithms of machine learning. We construct eight new features based on the given variables and we have tested five algorithms, xGBoost, Random Forest, Decision Trees and Multi-Layer Perceptron. The best score is achieved with the xGBoost algorithm, using all the available variables.
+The goal is to predict which of the costumers are going to change telecommunication provider through algorithms of machine learning. Eight new features were created based on the given variables and five algorithms were tested, xGBoost, Random Forest, Decision Trees and Multi-Layer Perceptron. The best score was achieved with the xGBoost algorithm.
 
 <b>The extra features we created are the
 following</b>:
@@ -39,3 +39,8 @@ Layer Perceptron). xGBoost had the best predictive power in the
 given data set and was the best classifier with an accuracy of
 0:977. Moreover, it was observed that the new features that were created played an important role in the results since they
 improved the accuracy.
+
+Thanks to Vasso Tsichli for the significant help in the project.
+
+Dimosthenis Beleveslis
+dimbele4@gmail.com
