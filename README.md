@@ -32,3 +32,7 @@ international call. It has been calculated by dividing the
 8) when_more_calls: which are a categorical value that
 corresponds to the period of the day (day, evening or
 night) that the customer did the most calls.
+
+xGBoost has the best predictive power in the
+given data set and was the best classifier with an accuracy of
+0:977. Moreover, it was observed that the new features that
