@@ -3,8 +3,8 @@ An Application to the ”Churn” Problem
 
 The goal is to predict which of the costumers are going to change telecommunication provider through algorithms of machine learning. We construct eight new features based on the given variables and we have tested five algorithms, xGBoost, Random Forest, Decision Trees and Multi-Layer Perceptron. The best score is achieved with the xGBoost algorithm, using all the available variables.
 
-The extra features we created are the
-following:
+<b>The extra features we created are the
+following</b>:
 1) total_minutes: which was obtained by the summation
 of the numeric variables ”total day minutes”, ”total
 eve minutes”, ”total night minutes” and it represents
@@ -33,6 +33,9 @@ international call. It has been calculated by dividing the
 corresponds to the period of the day (day, evening or
 night) that the customer did the most calls.
 
-xGBoost has the best predictive power in the
+<b>Modeling</b>
+Various classifiers were tested (xGBoost, Random Forest, Decision Trees and Multi-
+Layer Perceptron). xGBoost had the best predictive power in the
 given data set and was the best classifier with an accuracy of
-0:977. Moreover, it was observed that the new features that
+0:977. Moreover, it was observed that the new features that were created played an important role in the results since they
+improved the accuracy.
